@@ -1,4 +1,4 @@
-package golang_serverless_response
+package tools
 
 import (
 	"github.com/aws/aws-lambda-go/events"
